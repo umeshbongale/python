@@ -1,2 +1,2 @@
 # python
-Python Basics example
+Python Basics syntax
